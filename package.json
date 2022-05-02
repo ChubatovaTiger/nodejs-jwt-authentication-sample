@@ -30,7 +30,7 @@
     "express-jwt": "^0.3.1",
     "jsonwebtoken": "^5.0.1",
     "lodash": "^2.4.1",
-    "morgan": "^1.2.3"
-    "my-react-chubatova"  : "npm:react@18.1.0"
+    "morgan": "^1.2.3",
+    "examplelias"  : "npm:highcharts@10.1.0"
   }
 }
